@@ -11,3 +11,35 @@
 5. ESLint is a tools that helps us to write a code on EcmaScript. It prevents us to write a code that would be potential to become bugs.
 
 6. ES6 stands for EcmaScript version 6. ES itself is a standardization of the scripting language (JavaScript).
+
+7. Git is a tool that is often used in software development. It's a version control system, which works to log any code changes.
+
+8. Postman is an application which helps us to test our REST API or others as well.
+
+9. AWS S3 is a cloud storage that developer mostly used to save an image or video. The company itself says it guarantees 99.9999999% security.
+
+10.
+
+11. JWT is a token that we hashed before and saved inside headers. It's mostly used to be an authenticator.
+
+12. When we want to make a pull request and a conflict occurs, just click "resolve button", and then check our code which must be written or not and update the new ones.
+
+13. It works to update the most recent code in a repository.
+
+14. We can simply write in command line, "git reset HEAD^" (without quotes).
+
+15. We could use "git pull" everytime the origin was updated. It reduces the possibility of conflict.
+
+16. API Endpoint
+
+baseURL: http://localhost:3000
+
+### POST /signin
+```
+It was used to sign in user which is registered before by seed to database.
+```
+
+### GET /profile
+```
+It was used after we sign into the program, then we could see our profile. If we're not signed in, we couldn't see it.
+```
