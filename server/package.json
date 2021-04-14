@@ -1,0 +1,28 @@
+{
+  "name": "achiko-test",
+  "version": "1.0.0",
+  "description": "1. Node.js is a software (prefer to server-side) that helps us to develop a web application which written in JavaScript. It has it's own HTTP library, so we don't need to use another web server program like Apache or something else.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyhanprtrs/achiko-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reyhanprtrs/achiko-test/issues"
+  },
+  "homepage": "https://github.com/reyhanprtrs/achiko-test#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.6.0",
+    "sequelize": "^6.6.2"
+  }
+}
